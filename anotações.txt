@@ -25,3 +25,20 @@
 # 3 - rodando direto no console python
 # 3.1 não e executar o arquivo e sim comandos do phyton
 # 3.2 python3 já abre o console e tu começa a brincar...
+
+
+4 Git/Github básico
+4.1 git clone git@.....
+4.2 git status 
+4.3 git add .
+4.4 git commit -m 'comment'
+4.5 git push 
+4.6 git diff ( use q para sair )
+
+
+5 Linux comandos..
+5.1 ls - lista o diretório
+5.2 cd path /... abre diretório
+5.3 cd ..
+5.4 pwd mostar path diretóri atual
+5.5 mkdir cria diretório
