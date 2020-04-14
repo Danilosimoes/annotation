@@ -31,7 +31,7 @@
 4.2 git status ( mostra o que tem de mudanças )
 4.3 git add . ( adiciona as mudanças na area de stage )
 4.4 git commit -m 'comment' ( commita as mudancas localmente )
-4.5 git push ( sobre as mudanças ( commits locais ) para o GH )
+4.5 git push ( sobe as mudanças ( commits locais ) para o GH )
 4.6 git pull ( traz todas as mudanças que está no GH )
 4.6 git diff ( use q para sair )
 
