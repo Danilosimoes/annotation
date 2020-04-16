@@ -26,6 +26,9 @@
 # 3.2 python3 já abre o console e tu começa a brincar...
 
 
+ANTES EXECUTAR OS COMANDOS ABAIXO:
+>>> Lembre-se de sempre estar no dirtório que foi clonado o repo ( 4.1 ) para executar os demais comandos <<<
+
 4 Git/Github básico
 4.1 git clone git@..... ( clona o repo )
 4.2 git status ( mostra o que tem de mudanças )
@@ -35,13 +38,13 @@
 4.6 git pull ( traz todas as mudanças que está no GH )
 4.6 git diff ( use q para sair )
 
-> Lembre-se se sempre estar no dirtório que foi clonado o repo ( 4.1 ) para executar os demais comandos
-
 
 
 5 Linux comandos..
-5.1 ls - lista o diretório
-5.2 cd path /... abre diretório
-5.3 cd ..
-5.4 pwd mostar path diretóri atual
-5.5 mkdir cria diretório
+5.1 ls -al -lista todos os arquivos/diretórios 
+5.2 cd path /... abre diretório => Ex cd /mnt/c/Users/danil/git/annotation ( abre o diretório/repo clonado do GH )
+5.3 cd .. voltar para o diretório anterior 
+5.4 pwd mostar path diretório atual 
+5.5 mkdir cria diretório Ex mkdir xpto ( cria o diretório xpto )
+5.6 rm -rf dir ( remove diretório ) => Ex rm -rf annotation ( Remove todo o diretório/repo clonado do GH )
+5.7 rm file ( remove arquivo ) rm annotation.txt ( removo o arquivo annotation.txt)
