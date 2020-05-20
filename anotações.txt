@@ -39,10 +39,13 @@ ANTES EXECUTAR OS COMANDOS ABAIXO:
 4.6 git diff ( use q para sair )
 
 
+-- ATENCAO PARA ACESSAR OS MEUS REPOS DO WINDAO NO SHELL UBUNTU:
+cd /mnt/c/Users/danil/git
+SOMENTE RODAR ISSO :up:
 
 5 Linux comandos..
 5.1 ls -al -lista todos os arquivos/diretórios 
-5.2 cd path /... abre diretório => Ex cd /mnt/c/Users/danil/git/annotation ( abre o diretório/repo clonado do GH )
+5.2 cd path /... abre diretório => Ex cd /mnt/c/Users/danil/git ( abre o diretório/repo clonado do GH )
 5.3 cd .. voltar para o diretório anterior 
 5.4 pwd mostar path diretório atual 
 5.5 mkdir cria diretório Ex mkdir xpto ( cria o diretório xpto )
