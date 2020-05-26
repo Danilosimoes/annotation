@@ -57,9 +57,16 @@ SOMENTE RODAR ISSO :up:
 6.1 => REST da uma lida https://becode.com.br/o-que-e-api-rest-e-restful/
 6.2 => CRUD da uma lida https://pt.stackoverflow.com/questions/359961/o-que-caracteriza-um-projeto-crud-b%C3%A1sico
 6.3 => METODOS HTTP da uma lista http://gabsferreira.com/os-metodos-http-e-a-diferenca-entre-eles/
-6.4 
+6.4 => JSON da uma lida https://www.treinaweb.com.br/blog/o-que-e-json/ 
 6.2 => O REST usa o protocolo HTTP e os seus metodos para executar as operações
 6.2.1 => CRUD BANCO/HTTP CREATE(INSERT/POST) READ(SELECT/GET) UPDATE(UPDATE/PUT) DELETE(DELETE/DELETE)
-6.4 => JSON => e o formato de dados mais utilizados no REST 
+6.4 => JSON => e o formato de dados mais utilizados no REST
+6.5 => FRAMEWORKS geralmente são ferramentas que abstrai infrestutura em cima de uma linguagem por exemplo:
+6.5.1 => Framework em Python para desenvolver REST APIs => https://nordicapis.com/8-open-source-frameworks-for-building-apis-in-python/
+
+
+
+git@github.com:Danilosimoes/people-api.git
+cd /mnt/c/Users/danil/git
 
 
