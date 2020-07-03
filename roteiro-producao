@@ -1,0 +1,36 @@
+- Roteiro para colocar em produção uma APP ( v1 )
+
+Conceitos que iremos falar (não necessariamente nessa ordem)
+
+* Cloud
+* AWS
+* EC2
+* RDS
+* ROUTE 53
+* Load Balance
+* Infra
+* Devops
+* Docker
+* DNS
+* Registro BR
+* SSH
+* Certificado SSL
+* Let's Encrypt
+* HTTPS
+* Makefile
+* CoreOS ( FlatCar )
+* CI ( Continuous Integration )
+* CD ( continuous Delivery )
+* GitHub Action
+* K8S ( Kubernetes )
+...
+
+
+1 - Cloud / AWS
+  1.1 Nocões básicas sobre Cloud e AWS
+  1.2 Configuração user AWS com fator duplo de autenticação
+  1.3 Primeira instância EC2
+  1.4 Security Group ( Firewall ) para a instância EC2
+  1.5 Conectar via SSS na Instância EC2
+  1.6...
+...
