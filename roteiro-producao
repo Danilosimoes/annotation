@@ -8,6 +8,8 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * RDS
 * ROUTE 53
 * Load Balance
+* Stress Test
+* Postman Stress Test
 * Infra
 * Devops
 * Docker
