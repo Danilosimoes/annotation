@@ -8,6 +8,17 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * RDS
 * ROUTE 53
 * Load Balance
+* Stress Test
+* Postman Stress Test
+* Monitoramento
+* Metricas
+* APM
+* LOGS
+* ELK
+* Processamento Async
+* Filas/Tópicos
+* SNS 
+* SQS
 * Infra
 * Devops
 * Docker
