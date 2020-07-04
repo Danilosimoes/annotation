@@ -15,6 +15,10 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * APM
 * LOGS
 * ELK
+* Processamento Async
+* Filas/Tópicos
+* SNS 
+* SQS
 * Infra
 * Devops
 * Docker
