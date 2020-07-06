@@ -37,6 +37,9 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * Cache
 * Redis
 * ElastiCache
+* ProtoBuff
+* Git Submodule
+* GRPC
 ...
 
 
