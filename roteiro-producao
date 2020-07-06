@@ -34,6 +34,9 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * CD ( continuous Delivery )
 * GitHub Action
 * K8S ( Kubernetes )
+* Cache
+* Redis
+* ElastiCache
 ...
 
 
