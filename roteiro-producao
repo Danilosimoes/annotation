@@ -1,4 +1,4 @@
-- Roteiro para colocar em produção uma APP ( v1 )
+Robson AWS 2020- Roteiro para colocar em produção uma APP ( v1 )
 
 Conceitos que iremos falar (não necessariamente nessa ordem)
 
@@ -37,17 +37,18 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * Cache
 * Redis
 * ElastiCache
-* ProtoBuff
-* Git Submodule
-* GRPC
 ...
 
 
 1 - Cloud / AWS
-  1.1 Nocões básicas sobre Cloud e AWS
-  1.2 Configuração user AWS com fator duplo de autenticação
-  1.3 Primeira instância EC2
-  1.4 Security Group ( Firewall ) para a instância EC2
-  1.5 Conectar via SSS na Instância EC2
-  1.6...
+  1.1 Nocões básicas sobre Cloud e AWS 
+    - IaaS Infra as a Service ( AWS, Google Cloud, Azure )
+    - Paas Platform as a Service ( Platforma Ex. Heroku )
+    - SaaS Software as a Service ( Ontracker ) 	
+    - AWS -> Regions and Zones			
+  1.2 Configuração user AWS com fator duplo de autenticação OK 
+  1.3 Primeira instância EC2 OK 
+  1.4 Security Group ( Firewall ) para a instância EC2 OK 
+  1.5 Conectar via SSS na Instância EC2 OK 
+  1.6 Subir uma Instância t2.micro em Sampa e conectar via ssh
 ...
