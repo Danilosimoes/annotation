@@ -2,9 +2,10 @@ Robson AWS 2020- Roteiro para colocar em produção uma APP ( v1 )
 
 Conceitos que iremos falar (não necessariamente nessa ordem)
 
-* Cloud
-* AWS
+* Cloud OK 
+* AWS OK 
 * EC2
+* ENV
 * RDS
 * ROUTE 53
 * Load Balance
@@ -39,6 +40,7 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * ElastiCache
 * CDN
 * VPC
+* DbMigration
 ...
 
 
@@ -53,4 +55,16 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   1.4 Security Group ( Firewall ) para a instância EC2 OK 
   1.5 Conectar via SSS na Instância EC2 OK 
   1.6 Subir uma Instância t2.micro em Sampa e conectar via ssh <- Danilo lembrando que para seguir os próximos passos tu precisar desenrolar isso 
-...
+
+2 - Buildar/Rodar a people API em uma instância EC2
+  2.1 Subir uma nova instância EC2 Ubuntu com o Mysql e configurar o acesso externo SSH/MYSQL 22/3306 ( Danilo )
+  2.2 Script da base ( Danilo )
+  2.3 Instalar o SDKMAN ( https://sdkman.io/ ) na instância ( Danilo )
+  2.4 Clonar o repo people na instãncia ( Home ) ( Danilo )
+  2.5 Instalar o jdk via SDKMAN ( Alemão )
+  2.6 Buildar a app ( Alemão )
+  2.7 Rodar a App ( Alemão )
+  2.8 Get PostMan ( Alemão )
+  2.9 Demais Operação no PostMan ( Danilo )
+  2.10.... 
+  
