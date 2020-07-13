@@ -58,11 +58,13 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 
 2 - Buildar/Rodar a people API em uma instância EC2
   2.1 Subir uma nova instância EC2 Ubuntu com o Mysql e configurar o acesso externo SSH/MYSQL 22/3306 ( Danilo )
-  2.2 Instalar o SDKMAN ( https://sdkman.io/ ) na instância ( Danilo )
-  2.3 Clonar o repo people na instãncia ( Home ) ( Danilo )
-  2.4 Instalar o jdk via SDKMAN ( Alemão )
-  2.4 Buildar a app ( Alemão )
-  2.4 Rodar a App ( Alemão )
-  2.5 Get PostMan ( Alemão )
-  2.6..... 
+  2.2 Script da base ( Danilo )
+  2.3 Instalar o SDKMAN ( https://sdkman.io/ ) na instância ( Danilo )
+  2.4 Clonar o repo people na instãncia ( Home ) ( Danilo )
+  2.5 Instalar o jdk via SDKMAN ( Alemão )
+  2.6 Buildar a app ( Alemão )
+  2.7 Rodar a App ( Alemão )
+  2.8 Get PostMan ( Alemão )
+  2.9 Demais Operação no PostMan ( Danilo )
+  2.10.... 
   
