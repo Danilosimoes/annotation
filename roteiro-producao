@@ -61,14 +61,14 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   1.6 Subir uma Instância t2.micro em Sampa e conectar via ssh <- Danilo lembrando que para seguir os próximos passos tu precisar desenrolar isso 
 
 2 - Buildar/Rodar a people API em uma instância EC2
-  2.1 Subir uma nova instância EC2 Ubuntu com o Mysql e configurar o acesso externo SSH/MYSQL 22/3306 ( Danilo )
-  2.2 Script da base ( Danilo )
-  2.3 Instalar o SDKMAN ( https://sdkman.io/ ) na instância ( Danilo )
-  2.4 Clonar o repo people na instãncia ( Home ) ( Danilo )
-  2.5 Instalar o jdk via SDKMAN ( Alemão )
-  2.6 Buildar a app ( Alemão )
-  2.7 Rodar a App ( Alemão )
-  2.8 Get PostMan ( Alemão )
-  2.9 Demais Operação no PostMan ( Danilo )
-  2.10.... 
+  2.1 Subir uma nova instância EC2 Ubuntu com o Mysql e configurar o acesso externo SSH/MYSQL 22/3306 ( Danilo ) OK 
+  2.2 Script da base ( Danilo ) OK 
+  2.3 Instalar o SDKMAN ( https://sdkman.io/ ) na instância ( Danilo ) OK 
+  2.4 Clonar o repo people na instãncia ( Home ) ( Danilo ) OK 
+  2.5 Instalar o jdk via SDKMAN ( Alemão ) OK 
+  2.6 Buildar a app ( Alemão ) OK 
+  2.7 Rodar a App ( Alemão ) OK  gradle bootRun
+  2.8 Get PostMan ( Alemão ) OK 
+  2.9 Demais Operação no PostMan ( Danilo ) OK...   
+  2.10 ENV VAR = export nome=valor => export DB_HOST=
   
