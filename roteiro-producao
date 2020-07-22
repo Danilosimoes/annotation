@@ -72,3 +72,15 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   2.9 Demais Operação no PostMan ( Danilo ) OK...   
   2.10 ENV VAR = export nome=valor => export DB_HOST=
   
+3 - RDS/MYSQL/ENV
+  3.1 Nocões básicas sobre RDS
+  3.2 Subir Instância RDS
+  3.3 Conectar no RDS (na máquina local)
+  3.3 Criar Base people
+  3.4 Conectar people api 
+  3.5 Get Maroto para teste
+  3.6 O que é ENV/VAR (básico no linux ) ?
+  3.7 ENV/VAR conf banco
+  3.8 ... 
+  
+  
