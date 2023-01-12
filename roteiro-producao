@@ -90,7 +90,8 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   4.4 - Link domínio .br com o Route 53
   4.5 - Meu domínio está no ar ( internet ) ? PING...
   4.6 - Ping OK, vamos adicioanar a pepole api atrás dele ?
-  4.7 - ....
+  4.7 - Subir people API no EC2
+  4.8 - link DND/Route/EC2/PEOPLE API
   
   
   
