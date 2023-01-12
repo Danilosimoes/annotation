@@ -4,10 +4,16 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 
 * Cloud OK 
 * AWS OK 
-* EC2
-* ENV
-* RDS
+* EC2 OK
+* ENV OK 
+* RDS OK 
 * ROUTE 53
+* DNS
+* Registro BR
+* HTTPS
+* SSH
+* Certificado SSL
+* Let's Encrypt
 * Load Balance
 * Stress Test
 * Postman Stress Test
@@ -23,12 +29,6 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * Infra
 * Devops
 * Docker
-* DNS
-* Registro BR
-* SSH
-* Certificado SSL
-* Let's Encrypt
-* HTTPS
 * Makefile
 * CoreOS ( FlatCar )
 * CI ( Continuous Integration )
@@ -81,6 +81,17 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   3.5 Get Maroto para teste DANILO OK
   3.6 O que é ENV/VAR (básico no linux ) ( dica pesquisar linux env var create ) DANILO OK
   3.7 ENV/VAR conf banco ALTERAR PAR O HOST DO RDS DANILO OK
-  3.8 ... 
+  
+4 - DNS/ROUTE 53
+  4.1 - o que é DNS
+  4.2 - Registro .br, .com , .org...
+  4.3 - Tá como compro um domínio ?
+  4.4 - Ok tenho o meu domínio como coloco um app atrás dele ? Route 53 é o cara
+  4.4 - Link domínio .br com o Route 53
+  4.5 - Meu domínio está no ar ( internet ) ? PING...
+  4.6 - Ping OK, vamos adicioanar a pepole api atrás dele ?
+  4.7 - Subir people API no EC2
+  4.8 - link DNS/Route/EC2/PEOPLE API
+  
   
   
