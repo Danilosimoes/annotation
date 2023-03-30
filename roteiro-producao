@@ -94,14 +94,14 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   4.8 - link DNS/Route/EC2/PEOPLE API
   
 5 - DOCKER 
-  5.1  - Como era antes do docker
-  5.2  - O que é o docker 
-  5.3  - Instalar o docker local
-  5.4  - Hello World docker local
-  5.5  - Instalar o docker em uma instância EC2 (Danilo) 
-  5.6  - Hello World docker na instãncia EC2 (Danilo) 
-  5.7  - link para os itens (3,4,5,6) -> https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
-  5.8  - Dockerfile
+  5.1  - Como era antes do docker - bater um papo
+  5.2  - O que é o docker - bater um papo
+  5.3  - Instalar o docker local - ok
+  5.4  - Hello World docker local - ok 
+  5.5  - Instalar o docker em uma instância EC2 (Danilo) - ok
+  5.6  - Hello World docker na instãncia EC2 (Danilo)  - ok
+  5.7  - link para os itens (3,4,5,6) -> https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04 
+  5.8  - Dockerfile 
   5.9  - Gradle Docker plugin
   5.10 - Dockerizando app ( local )
   5.11 - Run docker local
