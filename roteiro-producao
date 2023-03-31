@@ -7,9 +7,9 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * EC2 OK
 * ENV OK 
 * RDS OK 
-* ROUTE 53
-* DNS
-* Registro BR
+* ROUTE 53 OK 
+* DNS OK
+* Registro BR OK 
 * HTTPS
 * SSH
 * Certificado SSL
@@ -30,7 +30,6 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * Devops
 * Docker
 * Makefile
-* CoreOS ( FlatCar )
 * CI ( Continuous Integration )
 * CD ( continuous Delivery )
 * GitHub Action
