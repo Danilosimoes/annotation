@@ -10,6 +10,7 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * ROUTE 53 OK 
 * DNS OK
 * Registro BR OK 
+* Docker OK
 * HTTPS
 * SSH
 * Certificado SSL
@@ -28,7 +29,6 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
 * SQS
 * Infra
 * Devops
-* Docker
 * Makefile
 * CI ( Continuous Integration )
 * CD ( continuous Delivery )
@@ -99,14 +99,13 @@ Conceitos que iremos falar (não necessariamente nessa ordem)
   5.4  - Hello World docker local - ok 
   5.5  - Instalar o docker em uma instância EC2 (Danilo) - ok
   5.6  - Hello World docker na instãncia EC2 (Danilo)  - ok
-  5.7  - link para os itens (3,4,5,6) -> https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04 
-  5.8  - Dockerfile 
-  5.9  - Dockerizando app ( local )
-  5.10 - Run docker local
-  5.11 - Gradle Docker plugin
-  5.12 - Push docker images docker hub ( Danilo precisa criar conta no docker hub )
-  5.13 - Run docker EC2
-  5.14.... 
+  5.7  - link para os itens (3,4,5,6) -> https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04 - ok
+  5.8  - Dockerfile -> - ok - estudamos o q foi gerado pelo plugin
+  5.9  - Dockerizando app ( local ) - ok 
+  5.10 - Run docker local - ok 
+  5.11 - Gradle Docker plugin - ok
+  5.12 - Push docker images docker hub ( Danilo precisa criar conta no docker hub ) - ok
+  5.13 - Run docker EC2 - ok
        
   
   
